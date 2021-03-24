@@ -1,0 +1,8 @@
+---
+title: "Learning to reference figures, tables and sections"
+author: "Sahinya Akila"
+date: "24/03/2021"
+output:
+  bookdown::html_document2
+keep_md: true
+---
